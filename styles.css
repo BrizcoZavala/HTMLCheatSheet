@@ -1,0 +1,48 @@
+body{
+    background-color: #FEFAE0;
+}
+body{
+    color: #283618;
+}
+header {
+    font-family: "Single Day", sans-serif;
+    text-align: center;
+    
+}
+
+table{
+    font-family: "Roboto";
+    border: 3px solid #283618;
+    width: 100%;
+    max-width: 650px;
+    margin: 0 auto;
+    display: table;
+    border-spacing: 3px;
+    border-collapse: collapse;
+}
+
+td{
+    word-wrap: break-word;
+}
+.tag{
+    font-weight: bold;
+}
+
+.table-header{
+    text-align: center;
+    background-color: #606c38;
+}
+
+table th, table td{
+    padding: 8px;
+}
+
+th, td{
+    border: 3px solid #283618; /* change the color as needed */
+    padding: 1vw; /* adjust padding to your preference */
+    text-align: center; /* adjust text alignment as needed */
+    background-color: #dda15e;
+}
+.reminder{
+    text-align: center;
+}
